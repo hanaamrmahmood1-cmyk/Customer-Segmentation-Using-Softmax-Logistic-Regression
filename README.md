@@ -44,7 +44,7 @@ Learning Outcomes
 Understand the softmax function and its application in multiclass classification
 
 
-Check out the demo video: [YouTube Link]([(https://youtu.be/9CxfUWrGsW4?si=_GJTcpG458s0qUlQ)])
+Check out the demo video: [YouTube Link] ([(https://youtu.be/9CxfUWrGsW4?si=_GJTcpG458s0qUlQ)])
 
 Learn to preprocess mixed feature types for ML models
 
